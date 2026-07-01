@@ -44,9 +44,11 @@ Based on the survey population ($N = 40$), the project surfaces clear, actionabl
 
 ## 📈 Dashboard Preview
 
-Below is a snapshot of the final interactive dashboard interface:
+### Executive Dashboard — Overview & Demographics
+![Dashboard View 1](dashboard1.png)
 
-![Dashboard Preview](dashboard1.png)(dashboard2.png).
+### Behavioral Analytics — Horizons & Expectations
+![Dashboard View 2](dashboard2.png)
 
 ---
 
